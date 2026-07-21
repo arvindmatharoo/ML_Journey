@@ -38,4 +38,11 @@ This repo is actively growing alongside my broader ML portfolio, which includes 
 ---
  
 ⭐ Feel free to explore, and reach out if you'd like to discuss any of the projects or concepts here.
- 
+
+## Author 
+- **Arvind Singh**
+- **B. Tech Computer Science Engineering**
+- [Linkedin](https://www.linkedin.com/in/arvindmatharoo/)
+- [Instagram](https://www.instagram.com/arvindmatharoo/)
+- Gmail: iarvinddsingh@gmail.com
+
